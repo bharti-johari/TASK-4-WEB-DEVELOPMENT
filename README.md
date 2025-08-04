@@ -62,7 +62,8 @@ Designed with a **clean UI**, **responsive layout**, and **smooth navigation** f
 ## 🚀 How to Run Locally
 
 1. **Clone the repository**
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/bharti-johari/TASK-4-WEB-DEVELOPMENT.git
+
 2. **Open the folder**
    cd your-repo-name
 3. **Run the project**

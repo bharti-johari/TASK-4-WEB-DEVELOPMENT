@@ -12,7 +12,7 @@ Designed with a **clean UI**, **responsive layout**, and **smooth navigation** f
 ---
 
 ## 📌 Live Demo
-🔗 **[View Live Project](https://your-username.github.io/your-repo-name/)**
+🔗 **[View Live Project](https://github.com/bharti-johari/TASK-4-WEB-DEVELOPMENT)**
 
 ---
 
@@ -68,4 +68,5 @@ Designed with a **clean UI**, **responsive layout**, and **smooth navigation** f
 3. **Run the project**
   Open index.html in your browser.
 
-💡 Made with ❤️ by Bharti Johari
+💡 Made with ❤️ by Bharti Johari • [LinkedIn](https://www.linkedin.com/in/bharti-johari-607324301/)
+

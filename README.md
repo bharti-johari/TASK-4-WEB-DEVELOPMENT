@@ -12,7 +12,7 @@ Designed with a **clean UI**, **responsive layout**, and **smooth navigation** f
 ---
 
 ## 📌 Live Demo
-🔗 **[View Live Project]((https://bharti-johari.github.io/TASK-4-WEB-DEVELOPMENT/))**
+🔗 **[View Live Project](https://bharti-johari.github.io/TASK-4-WEB-DEVELOPMENT/)**
 
 ---
 
